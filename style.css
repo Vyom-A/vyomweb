@@ -105,10 +105,17 @@ width:100%;
 height:800px;
 background:linear-gradient(#FFFF00 2%,#FFA726 100%);
 }
+#games img{
+padding: 25px;
+}
 a{
 text-decoration: none;
 color:aqua;
 text-shadow: 2px 2px dodgerblue ;
+}
+a img{
+width:250px;    
+height:250px;
 }
 .contact_one a{
 color:white;   
